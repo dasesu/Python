@@ -1,2 +1,2 @@
-# python
-Notes about python, codes and solved challenges
+# Python
+Notes about Python, codes and solved challenges
